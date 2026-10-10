@@ -1,0 +1,13 @@
+# Scan output contains real MAC addresses and device lists - never commit it
+network_report.html
+network_report.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IntelliJ
+.idea/
+*.iml
